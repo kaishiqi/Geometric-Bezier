@@ -38,3 +38,8 @@ Computing Intersections Between [a Rectangle] and [a Rectangle].
 */
 getIntersections(src:IGeometric, dest:IGeometric):Vector.<Point>
 ```
+
+
+#Contact
+--------------------
+E-mail: <kaishiqi@icloud.com>
